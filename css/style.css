@@ -1,0 +1,13 @@
+header {
+    background: linear-gradient(rgb(7, 7, 134),rgb(130, 130, 243), rgb(255, 255, 255));
+    padding: 40px;
+}
+
+.titulo {
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: cursive;
+    text-shadow: 4px 4px 4px #970404;
+
+}
